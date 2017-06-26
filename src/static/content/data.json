@@ -1,0 +1,42 @@
+[{
+  "id":"0",
+  "brand":"FreshFTs",
+  "name":"Apple",
+  "image":["https://i.imgur.com/K3KJ3w4h.jpg", "https://i.imgur.com/K3KJ3w4h.jpg"],
+  "price":"100"
+}]
+/*{
+  "id":"1",
+  "brand":"FreshFTs",
+  "name":"Banana",
+  "image":"https://i.imgur.com/K3KJ3w4h.jpg",
+  "price":"100"
+},
+{
+  "id":"2",
+  "brand":"FreshFTs",
+  "name":"Mango",
+  "image":"https://i.imgur.com/K3KJ3w4h.jpg",
+  "price":"100"
+},
+{
+  "id":"3",
+  "brand":"FreshFTs",
+  "name":"Orange",
+  "image":"https://i.imgur.com/K3KJ3w4h.jpg",
+  "price":"100"
+},
+{
+  "id":"4",
+  "brand":"FreshFTs",
+  "name":"Orange",
+  "image":"https://i.imgur.com/K3KJ3w4h.jpg",
+  "price":"100"
+},
+{
+  "id":"5",
+  "brand":"FreshFTs",
+  "name":"Orange",
+  "image":"https://i.imgur.com/K3KJ3w4h.jpg",
+  "price":"100"
+}]*/
